@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://lab.ssafy.com/asd0755/enjoytrip_vuejs_seoul10_team7
+[submodule "backend"]
+	path = backend
+	url = https://lab.ssafy.com/ilgooinkorea/enjoytrip_framework_s10_team7
